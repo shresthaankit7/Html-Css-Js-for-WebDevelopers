@@ -12,19 +12,22 @@ body{
 .title-1{
     background-color: aqua;
     float: right;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 2px;
 }
 .title-2{
     background-color: pink;
     float: right;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 2px;
 }
 .title-3{
     background-color: yellow;
-    float: right;
-    border: 1px solid black;
+    float: right;  
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 2px;
 }
 .mainContaier{
