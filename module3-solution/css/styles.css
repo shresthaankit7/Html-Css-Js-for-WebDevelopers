@@ -1,0 +1,28 @@
+.navbar .container{
+    width: 100%
+}
+
+.container row{
+    margin: 0 -15px 0 -15px;
+}
+.navbar-nav a span {
+    margin: 2px 3px 2px 3px;
+    text-align: center;
+}
+
+#menu-tiles{
+    background-color: beige;
+    width: 100%
+}
+
+#menuJumbotron {
+    text-align: center;
+}
+
+#chickenContent {
+    background-color: bisque;
+}
+
+#chickenContent p{
+    text-align: center;
+}
