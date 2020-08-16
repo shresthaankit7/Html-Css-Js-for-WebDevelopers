@@ -49,7 +49,7 @@ for (var i = 0; i < names.length; i++) {
   // to lower case character 'j' afterwards.
   // Look up these methods on Mozilla Developer Network web site if needed.
   var loopName = names[i];
-  var firstLetter = loopName[0];
+  var firstLetter = loopName.charAt(0);
 
 
   // STEP 12:
